@@ -1,2 +1,2 @@
 # Rishi
-gardi
+#alias gardi
